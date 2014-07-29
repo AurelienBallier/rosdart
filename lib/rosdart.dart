@@ -1,7 +1,7 @@
 /**
  * ROS client library for Dart
  *
- * The library uses the [xmlrpc](http://pub.dartlang.org/packages/xmlrpc) package.
+ * The library uses the [xmlrpc](https://github.com/aurelienballier/dart-xmlrpc) package.
  *
  * Fork it on GitHub: <https://github.com/aurelienballier/rosdart>
  */

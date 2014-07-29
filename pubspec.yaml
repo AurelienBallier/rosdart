@@ -1,0 +1,10 @@
+name: rosdart
+version: 0.1.0
+author: Aurélien Ballier - CyclonIT
+description: ROS client library for DART using chrome.sockets or websockets as backend.
+dependencies:
+  chrome: any
+  http: any
+  xml: any
+  xmlrpc:
+    git: https://github.com/AurelienBallier/dart-xmlrpc
